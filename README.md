@@ -16,11 +16,17 @@ This project builds a **complete machine learning pipeline** to predict real est
 All models are trained, validated, tested, compared, and saved.
 
 ## 📂 Project Structure
+
 📦 RealEstate-Price-Prediction
-┣ 📁 data/ → Put your CSV dataset here
+
+┣ 📁 data/ → Put your CSV dataset here 
+
 ┣ 📁 models/ → Saved ML & ANN models
+
 ┣ 📄 train_models.py → Full pipeline code
+
 ┣ 📄 README.md → This file
+
 ┗ 📄 requirements.txt → Dependencies
 
 ## 🧠 How The Pipeline Works (Simple Explanation)
