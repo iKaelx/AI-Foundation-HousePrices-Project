@@ -70,11 +70,13 @@ preprocessor.joblib
 
 ## 🚀 How to Run
 ### Install dependencies:
+```python
 pip install -r requirements.txt
-
+```
 ### Train models:
+```python
 python train_models.py
-
+```
 ### Edit dataset path:
 Inside `train_models.py`:
 ```python
